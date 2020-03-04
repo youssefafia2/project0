@@ -1,14 +1,16 @@
 h1 {
-    color: blue;
+    color: white;
     text-align: center;
+    font-family: sans-serif;
 }
 
 p {
-    color: blue;
+    color: white;
     text-align: center;
+    font-family: sans-serif;
 }
-
-p1 {
-  Color: red
-  text-align: right;
+a {
+  color:white;
+  align: center;
+  font-family: sans-serif;
 }

@@ -14,3 +14,17 @@ a {
   align-text: center;
   font-family: sans-serif;
 }
+
+<style>
+    @media (min-width: 500px) {
+        h1::before {
+            content: " ";
+        }
+    }
+
+    @media (max-width: 499px) {
+        h1::before {
+            content: " ";
+        }
+    }
+</style>

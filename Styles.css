@@ -14,6 +14,11 @@ a {
   align-text: center;
   font-family: sans-serif;
 }
+h2 {
+  Color: Black;
+  text-align: left;
+  font-family: sans-serif;
+}
 
 <style>
     @media (min-width: 500px) {
